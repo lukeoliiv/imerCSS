@@ -1,0 +1,40 @@
+body {
+    background-image:url("https://boechat.net/wp-content/uploads/2018/02/degrade-background-12685.jpg");
+    background-size: auto 100vh;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    height:100vh;
+  }
+  
+  .menu {
+    background-color:#b30000;
+  }
+  
+  .menu ul {
+    display:flex;
+    justify-content:space-around;
+  }
+  
+  .menu li {
+    list-style:none;
+  }
+  
+  a {
+    color: #0298d9;
+    font-size: 20px;
+    text-decoration: none;
+    
+    
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .titulo-site,
+  .subTitle-site {
+    color:#b30000;
+    text-align: center;
+  }
+  
+  .subTitle-site {
+  }
